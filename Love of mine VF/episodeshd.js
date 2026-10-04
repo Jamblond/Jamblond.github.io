@@ -1,5 +1,13 @@
 const episodes = [
     {
+        value: '2.png',
+        text: "Renard guérisseur",
+        description: 'love of mine episode 2 HD',
+        preview: '2-preview.webp',
+        url: ['2-01.webp', '2-02.webp', '2-03.webp', '2-04.webp', '2-05.webp'],
+        multi: true
+    },
+    {
         value: '1.png',
         text: "Tempête de neige",
         description: 'love of mine episode 1 HD',
